@@ -1,0 +1,20 @@
+{
+  "boards": [
+    {
+      "name": "Board1",
+      "createAt": 1619412691191,
+      "updateAt": 1619412691191,
+      "id": 1
+    }
+  ],
+  "tickets": [
+    {
+      "name": "Ticket1",
+      "description": "This is first ticket",
+      "createAt": 1619495295433,
+      "updateAt": 1619495295433,
+      "boardid": "1",
+      "id": 1
+    }
+  ]
+}
